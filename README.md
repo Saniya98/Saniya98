@@ -1,9 +1,12 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋, I am Saniya Farheen</h1>
+<h3 align="center">A passionate Software Developer based in New York City</h3>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
 <summary>
   <h2>🛠️ My Favorite Tools</h2>
 </summary>
-<h3>👩🏻‍💻 Programming and Markup Languages</h3>
+<h3 alighn="left">👩🏻‍💻 Programming and Markup Languages</h3>
+
   <p>
       <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
       <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
@@ -43,8 +46,6 @@
       <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?logo=jupyter&logoColor=white"></a>
       <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="21"></a>
       <a href="#"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" height="21"></a>
-
-
   </p>
 
 <details>
